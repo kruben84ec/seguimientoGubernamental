@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+<rdf:Description rdf:about="1. Manuales.zip"><rdf:label><![CDATA[1. Manuales Multipropósito]]></rdf:label><dc:title><![CDATA[1. Manuales Multipropósito]]></dc:title><dc:creator><![CDATA[Instituto Nacional de Estadística y Censos (INEC)]]></dc:creator><dcterms:created>2019-10-01</dcterms:created><dc:format><![CDATA[Compressed, ZIP [application/zip]]]></dc:format><dc:type><![CDATA[Document, Technical [doc/tec]]]></dc:type><dcterms:spatial><![CDATA[Ecuador [ecu]]]></dcterms:spatial><dc:description><![CDATA[Son documentos técnicos que contienen  los antecedentes, objetivos y estructura organizativa del proyecto, así como los fundamentos metodológicos, procedimientos, normas, definiciones, conceptos e instrucciones básicas, establecidos para la obtención y manejo de cada una de las variables del cuestionario, así como disposiciones administrativas, operativas y técnicas, necesarias para un correcto trabajo de obtención de la información dentro de los más rigurosos parámetros de homogeneidad, calidad, veracidad y confiabilidad. Las instrucciones y procedimientos contenidos en este manual, son el instrumento de referencia y consulta más importante de la encuesta y como tal, sirven para ordenar, orientar y facilitar el trabajo de las diferentes personas vinculadas tanto en campo como en oficina  para el procesamiento de datos  con la guía de usuario, este documento es de comunicación técnica destinado a dar asistencia las personas que utilizan un sistema en particular.]]></dc:description><dcterms:tableOfContents><![CDATA[Manual del Encuestador_Multipropósito
+
+
+I.- Objetivo de la encuesta 
+II.- Capacitación
+III.- Cartografía, conceptos y definiciones 
+IV. Técnicas para realizar la entrevista 
+V.- Marco conceptual
+VI.- Instrucciones para lllenar la información 
+VII.- Contenido del formulario  MULTIPROPÓSITO-2019 
+VIII.- Instructivo para el uso de formulario de muestra y cobertura 
+SECCIÓN 1. Registro de los miembros del hogar
+SECCIÓN 2: Educación
+SECCIÓN 5.1: Uso del tiempo
+SECCIÓN 6: Actividad física y transporte 
+SECCIÓN 7: Tecnología de la información y comunicación TIC
+SECCIÓN 8.2: Confianza, funcionamiento y satisfacción en Instituciones Públicas 
+SECCIÓN 9.1: Calidad de los servicios públicos
+SECCION 10.1: Informacioón ambientalL
+SECCIÓN 10.2: Cobertura en servicios de salud 
+SECCIÓN 11: Equiopamiento del hogar
+SECCIÓN 12: Datos de la vivienda y el hogar 
+SECCIÓN 12.1: Acceso y uso de servicios-productos financieros  
+Consideraciones generales organización del trabajo de campo 
+
+
+Guía de usuario BDD_Multipropósito
+
+
+
+1. Datos generales de la operación estadística 
+2. Descripción de la base de datos 
+3. Tipos de cuestionarios
+4. Anonimización de la Base de datos 
+5. Variables   
+6. Registros por módulo 
+7. Tratamiento de valores perdidos y validaciones 
+8. Factores de expansión, coeficientes de variación y error asociado al estimador (para encuestas)
+9. Clasificación y Nomenclaturas 
+10. Interpretación de indicadores principales
+11. Recomendaciones para el usuario
+
+Anexos:
+
+Ilustraciones 
+Tablas]]></dcterms:tableOfContents></rdf:Description>
+<rdf:Description rdf:about="2. Formulario.zip"><rdf:label><![CDATA[2. Formulario Multipropósito]]></rdf:label><dc:title><![CDATA[2. Formulario Multipropósito]]></dc:title><dc:creator><![CDATA[Instituto Nacional de Estadística y Censos (INEC)]]></dc:creator><dcterms:created>2019-10-01</dcterms:created><dc:format><![CDATA[Compressed, ZIP [application/zip]]]></dc:format><dc:type><![CDATA[Document, Questionnaire [doc/qst]]]></dc:type><dcterms:spatial><![CDATA[Ecuador [ecu]]]></dcterms:spatial><dc:description><![CDATA[Es un  documento técnico que contiene la estructura de los temas a investigar mediante un banco de preguntas con sus respectivas categorías o ítems.]]></dc:description><dcterms:tableOfContents><![CDATA[FORMULARIO:
+
+Carátula
+Sección 1: Registro de los miembros del hogar 
+Sección 2: Educación
+Sección 5.1: Uso del tiempo
+Sección 6: Actividad física y transporte
+Sección 7: Tecnologías de la información y comunicación TIC
+Sección 8.2: Confianza, funcionamiento y satisfacción en instituciones públicas
+Sección 9.1: Calidad de los servicios públicos 
+Sección 10.1: Información ambiental
+Sección 10.2: Cobertura en servicios de salud 
+Sección 11: Equipamiento del hogar
+Sección 12: Datos de la vivienda y el hogar
+Sección 12.1: Acceso y uso de Servicios-Productos Financieros
+Cédula de ciudadanía]]></dcterms:tableOfContents></rdf:Description>
+<rdf:Description rdf:about="3. Clasificador.zip"><rdf:label><![CDATA[3. Clasificador]]></rdf:label><dc:title><![CDATA[3. Clasificador]]></dc:title><dc:creator><![CDATA[Instituto Nacional de Estadística y Censos (INEC)]]></dc:creator><dcterms:created>2015-05-01</dcterms:created><dc:format><![CDATA[Compressed, ZIP [application/zip]]]></dc:format><dc:type><![CDATA[Document, Technical [doc/tec]]]></dc:type><dcterms:spatial><![CDATA[Ecuador [ecu]]]></dcterms:spatial><dc:description><![CDATA[Son documentos técnicos que permiten la asignación de códigos establecidos para determinadas variables, a través del cual se facilita el procesamiento de datos.]]></dc:description><dcterms:tableOfContents><![CDATA[Contiene:
+
+1.- Nomenclatura Nacional de Títulos Profesionales 2015.]]></dcterms:tableOfContents></rdf:Description>
+<rdf:Description rdf:about="4. Metodologia.zip"><rdf:label><![CDATA[4. Metodología de la Multipropósito]]></rdf:label><dc:title><![CDATA[4. Metodología de la Multipropósito]]></dc:title><dc:creator><![CDATA[Instituto Nacional de Estadística y Censos (INEC)]]></dc:creator><dcterms:created>2019-08-01</dcterms:created><dc:format><![CDATA[Compressed, ZIP [application/zip]]]></dc:format><dc:type><![CDATA[Document, Technical [doc/tec]]]></dc:type><dcterms:spatial><![CDATA[Ecuador [ecu]]]></dcterms:spatial><dc:description><![CDATA[Son  documentos técnicos en el que la Metodología describe el proceso fase por fase de acuerdo al Modelo de Producción Estadística de la Encuesta Nacional Multipropósito de Hogares, en tanto que las fichas técnicas describen la forma de cálculo de las variables e indicadores que sirven para el seguimiento del Plan Nacional de Desarrollo.]]></dc:description><dcterms:tableOfContents><![CDATA[1. 201912_Metodologia_Multiproposito
+
+    Siglas  
+    INTRODUCCIÓN  
+    ANTECEDENTES 
+    DESCRIPCIÓN DEL PROCESO DE PRODUCCIÓN DE LA OPERACIÓN ESTADÍSTICA
+1 PLANIFICACIÓN
+2. DISEÑO Y CONSTRUCCIÓN 
+DE SISTEMA DE PRODUCCIÓN 
+3. RECOLECCIÓN (CAPTACIÓN) 
+4. PROCESAMIENTO
+5 ANÁLISIS 
+6 DIFUSIÓN
+7. EVALUACIÓN 
+GLOSARIO DE TÉRMINOS 
+BIBLIOGRAFÍA 
+
+
+2. 201912_Fichas Metodológicas
+
+1. FM- Actividad física 3.5 horas-VF
+2. FM- Percepción positiva salud VF
+3. FM_desarrollo tecnología información comunicación
+4. FM_Calificación educación pública rural
+5. FM Percepción calidad servicios públicos general -VF
+6. FM_Confianza en la Policía Nacional
+7. FM_Confianza Fuerzas_Armadas
+8. FM_Confianza en el Consejo de la Judicatura
+9. FM_Confianza _Fiscalía General del Estado
+10. FM.-Confianza_Defensoría Pública-VF
+11. FM Percepción atención calidad servidor público-VF
+12. SN FM Satisfacción del servicio recibido por parte de la FGE -VF
+13. SN FM_Satisfacción con el servicio recibido por parte de la Defensoría Pública-VF
+14. SN FM_Satisfacción del servicio recibido por parte del Consejo de la Judicatura VF]]></dcterms:tableOfContents></rdf:Description>
+<rdf:Description rdf:about="5. Muestra y Cobertura.zip"><rdf:label><![CDATA[5. Muestra y cobertura]]></rdf:label><dc:title><![CDATA[5. Muestra y cobertura]]></dc:title><dc:creator><![CDATA[Instituto Nacional de Estadística y Censos (INEC)]]></dc:creator><dcterms:created>2019-12-23</dcterms:created><dc:format><![CDATA[Compressed, ZIP [application/zip]]]></dc:format><dc:type><![CDATA[Document, Technical [doc/tec]]]></dc:type><dcterms:spatial><![CDATA[Ecuador [ecu]]]></dcterms:spatial><dc:description><![CDATA[Son documentos técnicos que ayudan a  mejorar la cobertura de las encuestas y el proceso de inferencia estadística, mediante el  marco de muestreo completo, actualizado y exhaustivo. El mismo que  constituye la infraestructura para la selección de todas las muestras de la operación estadística.
+
+
+El diseño muestral para esta investigación corresponde a un muestreo probabilístico con tres etapas de selección: 
+-  Primera etapa: selección de Unidades Primarias de Muestreo (conglomerados) por estrato. 
+-  Segunda etapa: selección de viviendas ocupadas dentro de cada uno de los conglomerados seleccionados en la primera etapa. 
+-  Tercera etapa: Selección de una persona de 16 años y más dentro de cada hogar dentro de las viviendas seleccionadas en la segunda etapa.]]></dc:description><dcterms:tableOfContents><![CDATA[201912_Marco_Maestro_de_Muestreo_Multiproposito
+
+Marco Maestro de Muestreo  
+1. Introducción 
+2. Marco Maestro de Muestreo (MMM) 
+2.1. Definición del MMM 
+2.2. Objetivos del MMM 
+2.3. Propiedades del MMM 
+2.4. Cobertura del MMM
+2.5. Población objetivo del MMM
+2.6. Unidades estadísticas muestrales de selección del MMM  
+3. Codificación de variables para definir la clave única de identificación para áreas geográficas y unidades estadísticas.  
+3.1. Áreas geográficas - División Político Administrativa 
+3.2. Unidades Estadísticas 
+3.3. Estructura del código de identificación de un conglomerado (UPM)
+4. Unidades Primarias de Muestreo - UPM's homogéneas
+4.1. Construcción de la Unidades Primarias de Muestreo (Conglomerados)
+4.2. Algoritmo de Generación de Conglomerados que respondan necesidades operativas 
+5. Estratificación del Marco Maestro de Muestreo
+5.1. Objetivos de la estratificación del MMM  
+5.2. Dominios de estratificación del MMM
+5.3. Metodología de estratificación
+5.4. Aplicación de la estratificación en el Marco de Muestreo
+5.5. Validación de la estratificación del MMM 
+6. Actualización cartográfica del Marco de Muestreo de forma continua
+Referencias
+
+
+201912_Metodologia Diseño Muestral_Multiproposito.pdf 
+
+1. Introducción
+2. Diseño Muestral 
+2.1. Determinación del Marco de Muestreo 
+2.2. Universo de investigación  
+2.3. Unidad de observación 
+2.4. Unidad de análisis  
+2.5. Cobertura geográfica  
+2.6. Diseño Muestral 
+2.7. Equilibrio de las Unidades Primarias de Muestreo (UPM)
+2.9. Dominios de estudio 
+2.10. Tamaño y selección de la muestra
+2.11. Factores de expansión  
+2.13. Error de muestreo
+2.14. Métodos de estimación de errores para diseños muestrales
+
+Bibliografía]]></dcterms:tableOfContents></rdf:Description>
+<rdf:Description rdf:about="6. Sintaxis.zip"><rdf:label><![CDATA[6. Sintaxis]]></rdf:label><dc:title><![CDATA[6. Sintaxis]]></dc:title><dc:creator><![CDATA[Instituto Nacional de Estadística y Censos (INEC)]]></dc:creator><dcterms:created>2019-12-26</dcterms:created><dc:format><![CDATA[Compressed, ZIP [application/zip]]]></dc:format><dc:type><![CDATA[Document, Technical [doc/tec]]]></dc:type><dcterms:spatial><![CDATA[Ecuador [ecu]]]></dcterms:spatial><dc:description><![CDATA[Son documentos técnicos de lenguaje de programación o sintaxis para la elaboración de los indicadores requeridos para el seguimiento al Plan Nacional de Desarrollo.]]></dc:description><dcterms:tableOfContents><![CDATA[Contenido:
+
+Objetivo 1 
+Objetivo 5 
+Objetivo 6 
+Objetivo 7 
+Sintaxis Agenda 2030 (ODS)]]></dcterms:tableOfContents></rdf:Description>
+<rdf:Description rdf:about="7. 201912_Diccionario de variables_Multiproposito.zip"><rdf:label><![CDATA[7. 201912_Diccionario de variables_Multipropósito]]></rdf:label><dc:title><![CDATA[7. 201912_Diccionario de variables_Multipropósito]]></dc:title><dc:creator><![CDATA[Instituto Nacional de Estadística y Censos (INEC)]]></dc:creator><dcterms:created>2019-01-01</dcterms:created><dc:format><![CDATA[Document, Microsoft Excel [application/msexcel]]]></dc:format><dc:type><![CDATA[Document, Technical [doc/tec]]]></dc:type><dcterms:spatial><![CDATA[Ecuador [ecu]]]></dcterms:spatial><dc:description><![CDATA[Es un documento técnico que sirve para  facilitar el uso y procesamiento de la bases de datos de Encuesta Nacional Multipropósito de Hogares (Seguimiento al Plan Nacional de Desarrollo) - 2019, puesto a disposición de los usuarios.]]></dc:description><dcterms:tableOfContents><![CDATA[Contiene:
+
+201912_multibdd_personas
+201912_multibdd_uso_del_tiempo
+201912_multibdd_confianza
+201912_multibdd_calidad
+201912_multibdd_ambiente
+201912_multibdd_salud
+201912_multibdd_equipamiento
+201912_multibdd_viviendahogar
+201912_multibdd_prod_financiero]]></dcterms:tableOfContents></rdf:Description>
+<rdf:Description rdf:about="8. 201912_Cuadro Resumen_Actualizado 2019.zip"><rdf:label><![CDATA[8. Cuadro Resúmen_Actualizado 2019]]></rdf:label><dc:title><![CDATA[8. Cuadro Resúmen_Actualizado 2019]]></dc:title><dc:creator><![CDATA[Instituto Nacional de Estadística y Censos (INEC)]]></dc:creator><dcterms:created>2019-01-01</dcterms:created><dc:format><![CDATA[Document, Microsoft Excel [application/msexcel]]]></dc:format><dc:type><![CDATA[Document, Technical [doc/tec]]]></dc:type><dcterms:spatial><![CDATA[Ecuador [ecu]]]></dcterms:spatial><dc:description><![CDATA[Es un documento técnico con una visión general de los principales resultados de presentados de la Encuesta Nacional Multipropósito de Hogares como los indicadores del Plan Nacional de Desarrollo (PND) 2017-2021.]]></dc:description><dcterms:tableOfContents><![CDATA[Cuadro Resumen
+
+Calificación a la educación pública en el área rural.
+Años Promedio de Escolaridad.
+Porcentaje de hogares con acceso a internet.
+Porcentaje de hogares con percepción positiva en relación a los servicios de salud pública.]]></dcterms:tableOfContents></rdf:Description>
+<rdf:Description rdf:about="9. 201912_Evolucion Historica_Multiproposito.pdf"><rdf:label><![CDATA[9. Evolución Histórica]]></rdf:label><dc:title><![CDATA[9. Evolución Histórica]]></dc:title><dc:creator><![CDATA[Instituto Nacional de Estadística y Censos (INEC)]]></dc:creator><dcterms:created>2019-01-01</dcterms:created><dc:format><![CDATA[Document, PDF [application/pdf]]]></dc:format><dc:type><![CDATA[Document, Technical [doc/tec]]]></dc:type><dcterms:spatial><![CDATA[Ecuador [ecu]]]></dcterms:spatial><dc:description><![CDATA[Es un documento técnico en el que se detalla los indicadores del PND con fuente encuesta Multipropósito 2019 y que también fueron investigados en la Multipropósito 2018. Cabe indicar, que estos indicadores han sido analizados, discutidos y homologados en dos instancias: mesas temáticas2 y comisiones de estadística; las mismas que están conformadas por el INEC, SENPLADES y las entidades públicas de los Consejos Sectoriales.]]></dc:description><dcterms:tableOfContents><![CDATA[Evolución Histórica
+
+Datos Generales de la Operación Estadística
+Historia de la Encuesta Nacional Multipropósito de Hogares (Seguimiento al Plan Nacional de Desarrollo)-2019 
+Indicadores de la Encuesta Multipropósito 2019  
+Criterios utilizados para el Diseño de la Encuesta Multipropósito 
+Metodología
+Glosario de Términos  
+Bibliografía 
+
+LISTA DE TABLAS 
+
+Tabla 1. Indicadores del PND fuente Encuesta Multipropósito 2018 y 2019  
+Tabla 2. Variables de Encuesta Multipropósito (2018 y 2019) vs ENEMDU  
+Tabla 3. Módulos Encuesta Multipropósito 
+Tabla 4. Diferencias entre la ENEMDU y Multipropósito 2018 y 2019]]></dcterms:tableOfContents></rdf:Description>
+<rdf:Description rdf:about="1. 201912_Boletin Tecnico_Multiproposito.pdf"><rdf:label><![CDATA[1. Boletín Técnico Multipropósito]]></rdf:label><dc:title><![CDATA[1. Boletín Técnico Multipropósito]]></dc:title><dc:creator><![CDATA[Instituto Nacional de Estadística y Censos]]></dc:creator><dcterms:created>2019-01-01</dcterms:created><dc:format><![CDATA[Document, PDF [application/pdf]]]></dc:format><dc:type><![CDATA[Document, Other [doc/oth]]]></dc:type><dcterms:spatial><![CDATA[Ecuador [ecu]]]></dcterms:spatial><dc:description><![CDATA[En éste boletín se presenta los principales  indicadores obtenidos de la Encuesta Nacional Multipropósito de Hogares 2019 y que permiten dar seguimiento al PND, obteniendo una visión de la evolución de estos indicadores en el tiempo, con la finalidad de medir temáticas sociales que demanda el Plan Nacional de Desarrollo y demás agendas de desarrollo nacionales e internacionales.]]></dc:description><dcterms:tableOfContents><![CDATA[1. 201912_Boletin Tecnico_Multiproposito
+
+
+Resumen
+Introducción
+Principales aspectos metodológicos 
+Principales resultados
+1. CONDICIONES DE VIDA
+1.1. VIDA DIGNA CON IGUALES OPORTUNIDADES
+Uso del tiempo
+Percepción ciudadana de la calidad de los servicios de salud 
+2. ECONOMÍA Y SOCIEDAD 
+2.1. PRODUCTIVIDAD Y COMPETITIVIDAD
+Acceso, uso y capacidades de las TIC
+2.2. SOBERANÍA ALIMENTARIA Y DESARROLLO RURAL INTEGRAL 
+Percepción ciudadana de la calidad de la educación pública en el área rural 
+Confianza en las instituciones de justicia/área rural  
+Satisfacción ciudadana en las instituciones públicas de justicia 
+3. ESTADO Y SOCIEDAD
+3.1. SOCIEDAD PARTICIPATIVA
+Percepción ciudadana de la calidad de los servicios públicos en general y de la calidad de atención en el servicio público al ciudadano 
+Confianza ciudadana en las instituciones públicas de justicia y seguridad integral
+Boletín técnico N°-01-2020- MULTIPROPÓSITO 
+
+ÍNDICE DE FIGURAS 
+
+Figura 1. Evolución del porcentaje de la población nacional que realiza ejercicio o deporte en su tiempo libre más de 3,5 horas a la semana, por á rea (2013-2019) 
+Figura 2. Evolución del número de años promedio de escolaridad de la población de 24 años o más, por área (2013-2019) 
+Figura 3. Evolución de la tasa bruta de matrícula en secundaria (%), por área (2013-2019)
+Figura 4. Evolución del porcentaje de personas que utilizan internet (%), por área (2013-2019) 
+Figura 5. Evolución del porcentaje de hogares con al menos un computador (%), por área (2013-2019) 
+Figura 6. Evolución del porcentaje de hogares con acceso a internet (%), por área (2013-2019)
+Figura 7. Evolución de la calificación a la educación pública en el área rural (2013-2019) 
+Figura 8. Evolución del índice de percepción de la calidad de los servicios públicos en general, por área (2013-2019) 
+Figura 9. Confianza en el Consejo de la Judicatura, por área (2015-2019) 
+Figura 10. Evolución de la confianza en la Policía Nacional, por área (2015-2019)19 
+Figura 11. Evolución de la confianza en la Defensoría Pública, por área (2015-2019) 
+Figura 12. Evolución de la confianza en las Fuerzas Armadas, por área (2015-2019)21 
+Figura 13. Evolución de la confianza que la ciudadanía otorga a la Fiscalía General del Estado, por área (2015-2019)
+
+ÍNDICE DE TABLAS 
+Tabla 1. Porcentaje de la población que realiza ejercicio o deporte en su tiempo libre más de 3,5 horas a la semana, por área (2014-2019)
+Tabla 2. Porcentaje de hogares con percepción positiva en relación a los servicios de salud pública, por área (2016-2019)
+Tabla 3. Años promedio de escolaridad, por área (2015-2019) 1 
+Tabla 4. Tasa bruta de matrícula en secundaria (%), por área (2015- 2019) 
+Tabla 5. Porcentaje de personas que utilizan internet (%), por área (2015-2019) 
+Tabla 6. Porcentaje de hogares con al menos un computador (%), por área (2015-2019) 
+Tabla 7. Porcentaje de hogares con acceso a internet (%), por área (2015-2019)  
+Tabla 8. Calificación a la educación pública en el área rural (2015- 2019)  
+Tabla 9. Confianza en el Consejo de la Judicatura en el área rural (2015-2019)  
+Tabla 10. Confianza en la Defensoría Pública en el área rural (2015-2019)  
+Tabla 11. Confianza en la Fiscalía General del Estado en el área rural (2015-2019) 
+Tabla 12. Satisfacción del servicio recibido por parte del Consejo de la Judicatura "Jueces", (2018-2019)
+Tabla 13. Satisfacción con el servicio recibido por parte de la Defensoría Pública. (2018-2019) 
+Boletín técnico N°-01-2020- MULTIPROPÓSITO 
+Tabla 14. Satisfacción del servicio recibido por parte de la Fiscalía General del Estado (2018-2019) 
+Tabla 15. Índice de percepción de la calidad de los servicios públicos en general, por área (2015-2019) 
+Tabla 16. Índice de percepción de atención y calidad del servidor público, por área (2018-2019) 
+Tabla 17. Confianza promedio que la ciudadanía otorga al Consejo de la Judicatura, por área (2015-2019)
+Tabla 18. Confianza promedio que la ciudadanía otorga a la Policía Nacional, por área (2015-2019)
+Tabla 19. Confianza promedio que la ciudadanía otorga a la Defensoría Pública, por área (2015-2019)
+Tabla 20. Confianza promedio que la ciudadanía otorga a las Fuerzas Armadas, por área (2015-2019) 
+Tabla 21. Confianza promedio que la ciudadanía otorga a la Fiscalía General del Estado, por área (2015-2019)]]></dcterms:tableOfContents></rdf:Description>
+<rdf:Description rdf:about="2. 201912_Resultados_Multiproposito.pdf"><rdf:label><![CDATA[2. Principales resultados de la Multipropósito]]></rdf:label><dc:title><![CDATA[2. Principales resultados de la Multipropósito]]></dc:title><dc:creator><![CDATA[Instituto Nacional de Estadística y Censos (INEC)]]></dc:creator><dcterms:created>2019-01-01</dcterms:created><dc:format><![CDATA[Document, PDF [application/pdf]]]></dc:format><dc:type><![CDATA[Document, Other [doc/oth]]]></dc:type><dcterms:spatial><![CDATA[Ecuador [ecu]]]></dcterms:spatial><dc:description><![CDATA[Son documentos de resultados o productos finales que arrojan información para el cumplimiento de los objetivos del Plan Nacional de Desarrollo.]]></dc:description><dcterms:tableOfContents><![CDATA[Resultados de la Multipropósito
+
+1. Antecedentes
+2. Cronología
+3. Ficha Técnica
+4. Principales definiciones
+5. Objetivos del Plan Nacional de Desarrollo
+6. Indicadores del Plan Nacional de Desarrollo
+7. Resultados]]></dcterms:tableOfContents></rdf:Description>
+<rdf:Description rdf:about="3. 201912_Tabulados _Multiproposito.zip"><rdf:label><![CDATA[3. Tabulados de la Multipropósito]]></rdf:label><dc:title><![CDATA[3. Tabulados de la Multipropósito]]></dc:title><dc:creator><![CDATA[Instituto Nacional de Estadística y Censos (INEC)]]></dc:creator><dcterms:created>2019-01-01</dcterms:created><dc:format><![CDATA[Compressed, ZIP [application/zip]]]></dc:format><dc:type><![CDATA[Document, Other [doc/oth]]]></dc:type><dcterms:spatial><![CDATA[Ecuador [ecu]]]></dcterms:spatial><dc:description><![CDATA[Son documentos de resultados por que presentan datos estadísticos finales en forma de cuadros o tablas. Estos tabulados muestran los principales resultados de los indicadores que ayudan al seguimiento del Plan Nacional de Desarrollo.]]></dc:description><dcterms:tableOfContents><![CDATA[3. Tabulados
+
+1. Indicadores del Plan Nacional de Desarrollo - 2019
+1.1 Porcentaje de la población que realiza ejercicio o deporte en su tiempo libre más de 3,5 horas a la semana.
+1.2 Porcentaje de hogares con percepción positiva en relación a los servicios de salud pública
+1.3 Años Promedio de Escolaridad
+1.4 Tasa bruta de matrícula en secundaria 
+1.5 Porcentaje de personas que utilizan internet 
+1.6 Porcentaje de hogares con al menos un computador
+1.7 Porcentaje de hogares con acceso a internet 
+1.8 Calificación a la educación pública en el área rural 
+1.9 Satisfacción del servicio recibido por parte del Consejo de la Judicatura (Jueces)
+1.10 Satisfacción del servicio recibido por parte de la Fiscalía General del Estado
+1.11 Satisfacción con el servicio recibido por parte de la Defensoría Pública
+1.12 Índice de percepción de atención y calidad del servidor público.
+1.13 Confianza en las Fuerzas Armadas  
+1.14 Confianza en el Consejo de la Judicatura
+1.15 Confianza en la Defensoría Pública
+1.16 Confianza en la Fiscalía General del Estado
+1.17 Índice de percepción de la calidad de los servicios públicos en general
+1.18 Confianza en la  Policía Nacional
+
+2.  Indicadores de la Agenda 2030 (ODS) - 2019
+2.1 Proporción de jóvenes y adultos con conocimientos de tecnología de la información y las comunicaciones (TIC).
+2.2 Proporción de jóvenes y adultos con conocimientos para copiar o mover un archivo o una carpeta.
+2.3 Proporción de jóvenes y adultos con conocimientos para copiar y pegar, para duplicar o mover información en un documento.
+2.4 Proporción de jóvenes y adultos con conocimientos para enviar correos electrónicos con archivos adjuntos
+2.5 Proporción de jóvenes y adultos con conocimientos para utilizar fórmulas aritméticas
+2.6 Proporción de jóvenes y adultos con conocimientos para conectar e instalar nuevos dispositivo.
+2.7 Proporción de jóvenes y adultos con conocimientos para buscar, descargar, instalar y configurar un software.
+2.8 Proporción de jóvenes y adultos con conocimientos para elaborar presentaciones.
+2.9 Proporción de jóvenes y adultos con conocimientos para transferir archivos entre un equipo y otros dispositivos.
+2.10 Proporción de jóvenes y adultos con conocimientos para escribir un programa informático en un lenguaje de programación especializado.
+2.11 Proporción de personas que utilizan teléfonos móviles (activado)
+2.12 Proporción de la población con acceso a la electricidad 
+2.13 Proporción de personas que usan Internet 
+3. Definiciones]]></dcterms:tableOfContents></rdf:Description>
+<rdf:Description rdf:about="BASE DE DATOS MULTIPROPOSITO 2019.zip"><rdf:label><![CDATA[Base de datos]]></rdf:label><dc:title><![CDATA[Base de datos]]></dc:title><dc:creator><![CDATA[Instituto Nacional de Estadística y Censos (INEC)]]></dc:creator><dcterms:created>2019-12-31</dcterms:created><dc:format><![CDATA[Compressed, ZIP [application/zip]]]></dc:format><dc:type><![CDATA[Database [dat]]]></dc:type><dcterms:spatial><![CDATA[Ecuador [ecu]]]></dcterms:spatial><dc:description><![CDATA[Las bases de datos son almacenamientos que contienen una gran cantidad de información de manera organizada.]]></dc:description><dcterms:tableOfContents><![CDATA[Las bases de datos se presentan en los siguientes formatos:
+
+1. BDD_MULTI_2019_12_SPSS
+2. BDD_MULTI_2019_12_ STATA14
+3. BDD_DATOS_ABIERTOS_MULTI _2019_12_CSV]]></dcterms:tableOfContents></rdf:Description>
+</rdf:RDF>
