@@ -1,0 +1,17 @@
+{
+  "name": "electric",
+  "version": "1.0.0",
+  "description": "Automatización web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Christian Miranda Z crmiranda@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.7.5",
+    "puppeteer-table-parser": "^2.1.0",
+    "request": "^2.88.2"
+  }
+}
