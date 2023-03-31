@@ -12,7 +12,7 @@ const getIndicadores = async () =>  {
     for(const index in indicadores) {
         let urlPdf = urlFicha+""+indicadores[index].FICHA_INDICADOR;
         let pathDowloadPDF = pathDowloadFicaha+""+indicadores[index].FICHA_INDICADOR;
-        console.log(pathDowloadPDF);
+        utilities.getPdf(urlPdf, pathDowloadPDF);
     }
 
 
