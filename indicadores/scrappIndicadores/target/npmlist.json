@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"Scraping","dependencies":{"puppeteer-table-parser":{"version":"2.1.0"},"puppeteer":{"version":"19.7.5"},"request":{"version":"2.88.2"}}}
