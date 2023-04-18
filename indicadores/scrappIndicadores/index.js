@@ -7,6 +7,8 @@ const getIndicadores = async () =>  {
     .then((data) => data)
     .catch((error) => error);
 
+    console.log(indicadores);
+
     let urlFicha = "https://multimedia.planificacion.gob.ec/pnd2021/pdf/FICHAS/"
     let pathDowloadFicaha = "pdf/";
     for(const index in indicadores) {
@@ -14,9 +16,7 @@ const getIndicadores = async () =>  {
         let pathDowloadPDF = pathDowloadFicaha+""+indicadores[index].FICHA_INDICADOR;
         utilities.getPdf(urlPdf, pathDowloadPDF);
     }
-
-
-
+    
 }
 
 getIndicadores();
